@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Sup, just learning javascript , workin with php. 
