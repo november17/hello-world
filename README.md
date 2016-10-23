@@ -1,9 +1,11 @@
-.__   __.   ______   ____    ____  _______ .___  ___. .______    _______ .______      __   ______ 
-|  \ |  |  /  __  \  \   \  /   / |   ____||   \/   | |   _  \  |   ____||   _  \    /_ | |____  |
-|   \|  | |  |  |  |  \   \/   /  |  |__   |  \  /  | |  |_)  | |  |__   |  |_)  |    | |     / / 
-|  . `  | |  |  |  |   \      /   |   __|  |  |\/|  | |   _  <  |   __|  |      /     | |    / /  
-|  |\   | |  `--'  |    \    /    |  |____ |  |  |  | |  |_)  | |  |____ |  |\  \----.| |   / /   
-|__| \__|  \______/      \__/     |_______||__|  |__| |______/  |_______|| _| `._____||_|  /_/    
-                                                                                                  
+##doin stuff with javascript, php, and python.
 
-##doin stuff with javascript, php, and python. 
+Mostly here to cherry pick other people's stuff that are way better coders than me to mash together. Sometimes I get ideas in my head :D
+
+APIs are Fun.
+
+I like beaches, beer, and pizza. 
+
+You can find me on twitter - [@november17](http://twitter.com/november17)
+
+Thank you, and have a wonderful day.
