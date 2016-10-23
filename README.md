@@ -7,5 +7,6 @@ APIs are Fun. AI is interesting. Automation is fantastic, mostly because I'm rea
 I like beaches, [beer](http://www.n0v.pw/search/label/beer), and pizza. 
 
 You can find me on Twitter - [@november17](http://twitter.com/november17)
+e-mail - [n@n0v.pw]("mailto:n-githu@n0v.pw?subject=Mail from GitHub hello-world README")
 
 Thank you, and have a wonderful day.
